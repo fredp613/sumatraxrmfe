@@ -5,10 +5,10 @@ import Footer from "../components/layout/footer";
 
 
 export default class Layout extends React.Component {
-  navigate() {    
-    // this.props.history.replaceState(null, "/");
-    this.props.history.pushState(null, "/");
-  }
+  // navigate() {    
+  //   // this.props.history.replaceState(null, "/");
+  //   this.props.history.pushState(null, "/");
+  // }
 
   render() {
         

@@ -14,7 +14,7 @@ class Home extends React.Component {
   render() {
         return (
             <div class="container-fluid">  
-              <strong>Sumatra Lifestyle</strong>                   
+              <strong>Sumatra Lifestyle 3</strong>                   
           </div>
 
         );      
